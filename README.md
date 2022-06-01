@@ -81,7 +81,7 @@ Fiserv, Inc. is a global provider of payments and financial technology services 
 
 [Fiserv Competitors](https://finbox.com/NASDAQGS:FISV/explorer/indexes)
 
-[Fiserv Competitors](https://www.barchart.com/stocks/quotes/FISV/competitors?orderBy=weightedAlpha&orderDir=desc)
+[More Fiserv Competitors](https://www.barchart.com/stocks/quotes/FISV/competitors?orderBy=weightedAlpha&orderDir=desc)
 
 
 ## Synposis 
